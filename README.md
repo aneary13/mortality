@@ -1,6 +1,6 @@
 # Mortality Prediction
 
-this work was undertaken at the beginning of my research in NUIG. At this stage, I needed to improve my technical skills. I was working from a paper titled "Benchmarking Deep Learning Models on Large Healthcare Datasets" by Purushotham et al, 2018. 
+This work was undertaken at the beginning of my research in NUIG. At this stage, I needed to improve my technical skills. I was working from a paper titled "Benchmarking Deep Learning Models on Large Healthcare Datasets" by Purushotham et al, 2018. 
 
 As an exercise, I attempted to reproduce some of their results with my own implementations from scratch. This provided me the oportunity to practice SQL and Python, as well as helping me to explore the MIMIC-III database. Specifically, I was focussing on the mortality prediction task.
 
